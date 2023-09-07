@@ -34,7 +34,7 @@ public class PrintDatabase {
         EnrollDatabase editData = new EnrollDatabase(); //importing classes.
         
         //Prompt the user a question and recieve an answer, 
-        //use the answer for the File class. -> line 39.
+        //use the answer for the File class. -> line 41.
         System.out.print("\nTo Login, Please Enter Your Name that is "
                 + "Labeled in your Computer Account\nLogin: ");
         input = keyboard.nextLine();
@@ -77,7 +77,7 @@ public class PrintDatabase {
         }
         //Ask the user if he wishes to return or end the
         //program. using the variable "i" from the for 
-        //loop from line 50.
+        //loop from line 52.
         System.out.print("\nA. Return to Menu \nB. Exit : ");
         input = keyboard.nextLine();
         answer = input.charAt(0);
@@ -112,7 +112,7 @@ public class PrintDatabase {
         }
          //Ask the user if he wishes to return or end the
          //program. using the variable "i" from the for 
-         //loop from line 50.
+         //loop from line 52.
          System.out.print("\nA. Return to Menu \nB. Exit : ");
          input = keyboard.nextLine();
          answer = input.charAt(0);
@@ -155,7 +155,7 @@ public class PrintDatabase {
        }
         //Ask the user if he wishes to return or end the
         //program. using the variable "i" from the for 
-        //loop from line 50.
+        //loop from line 52.
         System.out.print("\nA. Return to Menu \nB. Exit : ");
         input = keyboard.nextLine();
         answer = input.charAt(0);
@@ -187,7 +187,7 @@ public class PrintDatabase {
        }
         //Ask the user if he wishes to return or end the
         //program. using the variable "i" from the for 
-        //loop from line 50.
+        //loop from line 52.
         System.out.print("\nA. Return to Menu \nB. Exit : ");
         input = keyboard.nextLine();
         answer = input.charAt(0);
@@ -238,7 +238,7 @@ public class PrintDatabase {
        }
         //Ask the user if he wishes to return or end the
         //program. using the variable "i" from the for 
-        //loop from line 50.
+        //loop from line 52.
         System.out.print("\n\nA. Return to Menu \nB. Exit : ");
         input = keyboard.nextLine();
         answer = input.charAt(0);
@@ -278,7 +278,7 @@ public class PrintDatabase {
        }
         //Ask the user if he wishes to return or end the
         //program. using the variable "i" from the for 
-        //loop from line 50.
+        //loop from line 52.
         System.out.print("\n\nA. Return to Menu \nB. Exit : ");
         input = keyboard.nextLine();
         answer = input.charAt(0);
